@@ -1,0 +1,47 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "firstName": "Ánh",
+      "lastName": "Ngọc",
+      "address": "Người Phù Ninh ko thích linh tinh",
+      "profile": {
+        "username": "Anhchatkocanhoi@chatchat",
+        "email": "anhchat@gmail.com"
+      }
+    },
+    {
+      "id": "2",
+      "firstName": "Hằng",
+      "lastName": "Thu",
+      "address": "nhà thờ đổ",
+      "profile": {
+        "username": "cihangsieucao@caocao",
+        "email": "cihangcaocao@gmail.com"
+      }
+    },
+    {
+      "id": "3",
+      "firstName": "Tùng",
+      "lastName": "Ngô",
+      "address": "người hà giang chất",
+      "profile": {
+        "username": "tungbeomuonanco@anco",
+        "email": "tungbeothichanco@gmail.com"
+      }
+    },
+    {
+      "id": "4",
+      "firstName": "Chiến",
+      "lastName": "Nguyễn",
+      "address": "Phú thọ chất khỏi đọ",
+      "profile": {
+        "username": "tungbeomuonanco@anco",
+        "email": "tungbeothichanco@gmail.com"
+      }
+    },
+    {
+      "id": "8c43"
+    }
+  ]
+}
